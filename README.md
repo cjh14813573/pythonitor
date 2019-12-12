@@ -1,8 +1,12 @@
 Pythonitor: a system resource monitor based on django and react.js
 
-## Web Framework
- - Front end : React.js V16.3.2
- - Back end : Django V2.0.4
+## Web Framework & libraries
+#### front end
+ - React.js
+ - Chart.js
+#### back end
+ - Django
+ - Psutil
 
 ## Test Link
 [http://cse.xited.io:8000](http://cse.xited.io:8000)
