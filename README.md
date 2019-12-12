@@ -15,4 +15,4 @@ Pythonitor: a system resource monitor based on django and react.js
  - username: cjh
  - password: cuijinhao
 
-![screenshot](https://github.com/cjh14813573/pythonitor/edit/master/screenshot.png?raw=true)
+![screenshot](https://github.com/cjh14813573/pythonitor/blob/master/screenshot.png?raw=true)
